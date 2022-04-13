@@ -11,7 +11,9 @@ Open it in your favourite IDEA (or txt notepad) and copy functions which you nee
 
 Support
 -------
-You can reach me in Telegram `@Tentorium_api` to get a job or maybe if you have some questions.
+You can reach me in Telegram `@Tentorium_api` to ask questions.
+
+Chat [CrowdForces](https://t.me/crowdforces)
 
 Как использовать
 ----------------
@@ -23,4 +25,6 @@ You can reach me in Telegram `@Tentorium_api` to get a job or maybe if you have 
 
 Поддержка
 ---------
-Вы можете связаться со мной в Телеграмме `@Tentorium_api` если вам нужна работа или если есть вопросы.
+Вы можете связаться со мной в Телеграмме `@Tentorium_api` и задать интересующие вопросы.
+
+Чат [CrowdForces](https://t.me/crowdforces)
