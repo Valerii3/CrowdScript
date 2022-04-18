@@ -29,4 +29,6 @@ int max(int a, int b);
 
 int min(int a, int b);
 
+setprecision();
+
 #endif //CROWD_CROWD_H

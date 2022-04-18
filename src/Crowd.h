@@ -24,4 +24,19 @@ function crowd_min(arg1: int, arg2: int) -> int{
     }
     return agr1;
 }
+
+
+function crowd_precision(ans: float) -> float{  // by @altg1fted
+    let result: string[] = [];
+    result.push(string(int(ans)));
+    result.push(".");
+    let rem = ans - float(int(ans));
+    for (let prec = 0; prec < 10 ; prec += 1) {
+        rem *= float(10);
+        result.push(string(int(rem)));
+        rem = rem - float(int(rem));
+    }
+    return result.join("");
+}
+
 #endif //CROWD_CROWD_H
